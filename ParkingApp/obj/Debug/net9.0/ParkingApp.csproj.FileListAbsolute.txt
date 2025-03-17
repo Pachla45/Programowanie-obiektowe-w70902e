@@ -1,0 +1,14 @@
+C:\Users\patry\Desktop\kod\ParkingApp\bin\Debug\net9.0\ParkingApp.exe
+C:\Users\patry\Desktop\kod\ParkingApp\bin\Debug\net9.0\ParkingApp.deps.json
+C:\Users\patry\Desktop\kod\ParkingApp\bin\Debug\net9.0\ParkingApp.runtimeconfig.json
+C:\Users\patry\Desktop\kod\ParkingApp\bin\Debug\net9.0\ParkingApp.dll
+C:\Users\patry\Desktop\kod\ParkingApp\bin\Debug\net9.0\ParkingApp.pdb
+C:\Users\patry\Desktop\kod\ParkingApp\obj\Debug\net9.0\ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\Desktop\kod\ParkingApp\obj\Debug\net9.0\ParkingApp.AssemblyInfoInputs.cache
+C:\Users\patry\Desktop\kod\ParkingApp\obj\Debug\net9.0\ParkingApp.AssemblyInfo.cs
+C:\Users\patry\Desktop\kod\ParkingApp\obj\Debug\net9.0\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\patry\Desktop\kod\ParkingApp\obj\Debug\net9.0\ParkingApp.dll
+C:\Users\patry\Desktop\kod\ParkingApp\obj\Debug\net9.0\refint\ParkingApp.dll
+C:\Users\patry\Desktop\kod\ParkingApp\obj\Debug\net9.0\ParkingApp.pdb
+C:\Users\patry\Desktop\kod\ParkingApp\obj\Debug\net9.0\ParkingApp.genruntimeconfig.cache
+C:\Users\patry\Desktop\kod\ParkingApp\obj\Debug\net9.0\ref\ParkingApp.dll
